@@ -62,7 +62,7 @@ continue on my journey of learning more everyday.
     </ul>
     <figcaption>More Challenging Programming Languages
     </figcaption>
-    <img src="img/CE32E6F2-5A47-4C52-9567-F5CC6F3A7CDD.jpeg"alt="Group Of Progamming Languages" height="500" width="1200">
+    <img src="https://github.com/user-attachments/assets/b6c1d10b-1c63-473f-8966-8ac2a75baeeb" alt="Group Of Progamming Languages" height="500" width="1200">
     <h2>4. Where Do I Think I Should Strengthen My HTML Coding Currently?
     </h2>
     <ol>
