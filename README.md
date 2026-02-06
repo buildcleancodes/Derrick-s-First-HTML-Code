@@ -76,6 +76,6 @@ continue on my journey of learning more everyday.
     <p>This is my first coding project, so my intentions isn't to make this one super fancy. You will see my growth as I continue to implement what I learn in future projects. See you on the next project! 
     </p>
     <figcaption>Thanks For Reading My First HTML CODE!<figcaption>
-    <img src="img/1B7DCE90-D19C-4797-AC5B-183EA352AAC4.jpeg" alt="Software Team Celebrating" width="1200" height="680">
+    <img src="https://github.com/user-attachments/assets/78e6b4fc-d9d9-4364-bee4-26f68588855b" alt="Software Team Celebrating" width="1200" height="680">
 </body>
 </html>
