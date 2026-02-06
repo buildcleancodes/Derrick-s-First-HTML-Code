@@ -1,7 +1,3 @@
-![IMG_7332](https://github.com/user-attachments/assets/443cdf4a-51fd-4e88-8467-542256250f33)
-![IMG_7335](https://github.com/user-attachments/assets/b6c1d10b-1c63-473f-8966-8ac2a75baeeb)
-![IMG_7328](https://github.com/user-attachments/assets/70943c8a-d136-45e3-a090-398b2e5ed92e)
-![IMG_7338](https://github.com/user-attachments/assets/78e6b4fc-d9d9-4364-bee4-26f68588855b)
 <!Doctype html>
 <html>	
 <head>
