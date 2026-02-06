@@ -33,7 +33,7 @@ continue on my journey of learning more everyday.
     <p>It's been pretty challenging learning all of these languages, but overall I enjoy learning the skill as a whole. I usually start coding first thing in the morning at 8am to about 12pm.I will start off with HTML lessons; then I will work my way all the way through CSS down to JAVASCRIPT. I find it beneficial to allow my brain to dive into each language everyday to keep my coder mind flowing & to not stay stagnent. 
     </p>
     <figcaption>Life Of A Developer<figcaption>
-    <img src="img/057E5A40-44F6-4B2E-B292-7B558BEE03A3.jpeg" alt= "Stressed Out Developer" height="686" width="1200">
+    <img src= "[IMG_7328](https://github.com/user-attachments/assets/70943c8a-d136-45e3-a090-398b2e5ed92e" alt= "Stressed Out Developer" height="686" width="1200">
     </section>
   <section id="Why I Want To Code?">
     <h2>2. Why I Want To Code?
